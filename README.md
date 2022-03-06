@@ -15,7 +15,7 @@ Hey 👋 I'm a beginning Java developer, music producer and Mc Donald's employee
 - JavaScript (Still learning it, I mostly use it for Discord bots.)
 
 ## Contact
-![Discord]https://discord.c99.nl/widget/theme-4/871163889457451018.png
+![Discord](https://discord.c99.nl/widget/theme-4/871163889457451018.png)
 
 ## Github Stats ⭐
 ![Cypphi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypphi&show_icons=true&theme=radical)
