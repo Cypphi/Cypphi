@@ -1,10 +1,10 @@
 # Cypphi
 I make things
 
-## Contact
-idk why you would wanna contact me but you can hit me up on discord Cypphi#7860
-
-## Github Stats ⭐
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,html,json,mysql,markdown)](https://github.com/Jurredr/github-widgetbox)
 
-![Cypphi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypphi&show_icons=true&theme=radical)
+![Cypphi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypphi&show_icons=true&theme=dark)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs,heroku,gradle)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
