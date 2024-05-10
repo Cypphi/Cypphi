@@ -1,5 +1,6 @@
 # Cypphi
 Hey 👋
+
 I'm a Minecraft nerd, average autistic Arch Linux user and alcoholic 9 to 5 survivor. I love doing everything from Minecraft mod (and client) development.
 
 I'm currently working on some Hypixel Skyblock related projects.
